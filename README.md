@@ -1,4 +1,5 @@
-### Hi there 👋
+# Tim Loughrist, PhD
+## Software engineer | Ruby on Rails, JavaScript, React.js
 
 <!--
 **tloughrist/tloughrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
