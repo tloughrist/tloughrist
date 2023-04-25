@@ -12,7 +12,9 @@ Outside of coding and philosophy, I am an avid tabletop gamer, bicycle aficionad
 * Cadence, an app to analyze a music file to determine BPM and recommend it for a particular running cadence
 
 ### Experience ###
-* Philosophy Professor - University of North Alabama from 2016 to 2023
+* Philosophy Professor
+  * University of North Alabama
+  * 2016 to 2023
 * Assistant Program Coordinator - W.H. Thompson Scholars Learning Community at University of Nebraska-Lincoln from 2015 to 2016
 * Adjunct Philosophy Professor - Doane University, Southeast Community College, and University of Nebraska-Lincoln from 2013 to 2015
 * Soda Jerk - Ivanna Cone Ice Cream in Lincoln, Nebraska from 2005 to 2016
