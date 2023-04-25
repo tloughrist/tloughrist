@@ -11,6 +11,18 @@ Outside of coding and philosophy, I am an avid tabletop gamer, bicycle aficionad
 * Tunnel Brawl! A two-to-four player chess variant
 * Cadence, an app to analyze a music file to determine BPM and recommend it for a particular running cadence
 
+### Experience ###
+* Philosophy Professor - University of North Alabama from 2016 to 2023
+* Assistant Program Coordinator - W.H. Thompson Scholars Learning Community at University of Nebraska-Lincoln from 2015 to 2016
+* Adjunct Philosophy Professor - Doane University, Southeast Community College, and University of Nebraska-Lincoln from 2013 to 2015
+* Soda Jerk - Ivanna Cone Ice Cream in Lincoln, Nebraska from 2005 to 2016
+
+### Education ###
+* Certificate in Fullstack Software Engineering - Flatiron School 2023
+* Doctorate in Philosophy - University of Nebraska-Lincoln in 2015
+* Masters in Philosophy - University of Nebraska-Lincoln in 2010
+* Bachelors in Philosophy - SUNY Geneseo in 2004
+
 <!--
 **tloughrist/tloughrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
