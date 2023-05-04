@@ -8,8 +8,8 @@ Because I’ve always had a love of formal logic, rules, and system building, my
 Outside of coding and philosophy, I am an avid tabletop gamer, bicycle aficionado, and consumer of coffee.
 
 ### Current Projects ###
-* Tunnel Brawl! A two-to-four player chess variant
-* Cadence, an app to analyze a music file to determine BPM and recommend it for a particular running cadence
+* Refactoring: Tunnel Brawl! A two-to-four player chess variant
+* Building: Cadence, an app to analyze a music file to determine BPM and recommend it for a particular running cadence
 
 ### Experience ###
 * Philosophy Professor
