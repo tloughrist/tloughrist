@@ -1,5 +1,5 @@
 # Tim Loughrist, PhD
-## Software Engineer | Ruby on Rails, JavaScript, React.js
+## Software Engineer | Ruby, Ruby on Rails, JavaScript, React.js, HTML, CSS
 
 I spent the first two decades of my professional life as an analytic philosopher. After earning tenure, I found grew restless and decided to branch out and explore new challenges.
 
@@ -12,23 +12,19 @@ Outside of coding and philosophy, I am an avid tabletop gamer, bicycle aficionad
 * Building: Cadence, an app to analyze a music file to determine BPM and recommend it for a particular running cadence
 
 ### Experience ###
-* Philosophy Professor
+* Philosophy Professor - 2016 to 2023
   * University of North Alabama
-  * 2016 to 2023
-* Assistant Program Coordinator
+* Assistant Program Coordinator - 2015 to 2016
   * W.H. Thompson Scholars Learning Community at University of Nebraska-Lincoln
-  * 2015 to 2016
-* Adjunct Philosophy Professor
+* Adjunct Philosophy Professor - 2013 to 2015
   * Doane University
   * Southeast Community College
   * University of Nebraska-Lincoln
-  * 2013 to 2015
-* Soda Jerk
+* Soda Jerk - 2005 to 2016
   * Ivanna Cone Ice Cream in Lincoln, Nebraska
-  * 2005 to 2016
 
 ### Education ###
-* Certificate in Fullstack Software Engineering - Flatiron School 2023
+* Certificate in Fullstack Software Engineering - Flatiron School in 2023
 * Doctorate in Philosophy - University of Nebraska-Lincoln in 2015
 * Masters in Philosophy - University of Nebraska-Lincoln in 2010
 * Bachelors in Philosophy - SUNY Geneseo in 2004
