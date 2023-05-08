@@ -9,7 +9,7 @@ Outside of coding and philosophy, I am an avid tabletop gamer, bicycle aficionad
 
 ### Current Projects ###
 * Refactoring: Tunnel Brawl! A two-to-four player chess variant
-* Building: Cadence, an app to analyze a music file to determine BPM and recommend it for a particular running cadence
+* Building: Cadence, an app to allow users to search Spotify for songs in order to display the song's BPM, then store that information to allow users to search for songs that fall within a BPM range.
 
 ### Experience ###
 * Philosophy Professor - 2016 to 2023
