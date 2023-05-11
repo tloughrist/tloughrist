@@ -1,7 +1,7 @@
 # Tim Loughrist, PhD
 ## Software Engineer | Ruby, Ruby on Rails, JavaScript, React.js, HTML, CSS
 
-I spent the first two decades of my professional life as an analytic philosopher. After earning tenure, I found grew restless and decided to branch out and explore new challenges.
+I spent the first two decades of my professional life as an analytic philosopher. After earning tenure, I grew restless and decided to branch out and explore new challenges.
 
 Because I’ve always had a love of formal logic, rules, and system building, my transition into software development was surprisingly smooth. I enjoy the work I do (with a special fondness for debugging) and look forward to it every morning.
 
