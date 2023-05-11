@@ -1,5 +1,5 @@
 # Tim Loughrist, PhD
-## Software Engineer | Ruby, Ruby on Rails, JavaScript, React.js, HTML, CSS | [My Resume](https://github.com/tloughrist/tloughrist/blob/main/SE%20Updated%20Resume-8.pdf)
+## Software Engineer | Ruby, Ruby on Rails, JavaScript, React.js, HTML, CSS | [My Resume](https://github.com/tloughrist/tloughrist/blob/main/SE%20Updated%20Resume-8.pdf) ##
  
 ### About Me ###
 I spent the first two decades of my professional life as an analytic philosopher. After earning tenure, I grew restless and decided to branch out and explore new challenges.
