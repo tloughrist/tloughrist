@@ -1,5 +1,6 @@
 # Tim Loughrist, PhD
 ## Software Engineer | Ruby, Ruby on Rails, JavaScript, React.js, HTML, CSS
+### [My Resume](https://github.com/tloughrist/tloughrist/blob/main/SE%20Updated%20Resume-8.pdf) ###
 
 I spent the first two decades of my professional life as an analytic philosopher. After earning tenure, I grew restless and decided to branch out and explore new challenges.
 
@@ -28,5 +29,3 @@ Outside of coding and philosophy, I am an avid tabletop gamer, bicycle aficionad
 * Doctorate in Philosophy - University of Nebraska-Lincoln in 2015
 * Masters in Philosophy - University of Nebraska-Lincoln in 2010
 * Bachelors in Philosophy - SUNY Geneseo in 2004
-
-### [My Resume](https://github.com/tloughrist/tloughrist/blob/main/SE%20Updated%20Resume-8.pdf) ###
