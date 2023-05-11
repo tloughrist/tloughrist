@@ -29,4 +29,4 @@ Outside of coding and philosophy, I am an avid tabletop gamer, bicycle aficionad
 * Masters in Philosophy - University of Nebraska-Lincoln in 2010
 * Bachelors in Philosophy - SUNY Geneseo in 2004
 
-[My Resume](https://github.com/tloughrist/tloughrist/blob/main/SE%20Updated%20Resume-8.pdf)
+###[My Resume](https://github.com/tloughrist/tloughrist/blob/main/SE%20Updated%20Resume-8.pdf)###
