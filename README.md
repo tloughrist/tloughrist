@@ -9,20 +9,13 @@ Because I’ve always had a love of formal logic, rules, and system building, my
 Outside of coding and philosophy, I am an avid tabletop gamer, bicycle aficionado, and consumer of coffee.
 
 ### Current Projects ###
-* Refactoring: Tunnel Brawl! A two-to-four player chess variant
-* Building: Cadence, an app to allow users to search Spotify for songs in order to display the song's BPM, then store that information to allow users to search for songs that fall within a BPM range.
-
+* Building: Braggart, an app for keeping track of your local board game group's stats.
+ 
 ### Experience ###
+* Software Developer - 2023 - Present
+  * Social Assurance
 * Philosophy Professor - 2016 to 2023
   * University of North Alabama
-* Assistant Program Coordinator - 2015 to 2016
-  * W.H. Thompson Scholars Learning Community at University of Nebraska-Lincoln
-* Adjunct Philosophy Professor - 2013 to 2015
-  * Doane University
-  * Southeast Community College
-  * University of Nebraska-Lincoln
-* Soda Jerk - 2005 to 2016
-  * Ivanna Cone Ice Cream in Lincoln, Nebraska
 
 ### Education ###
 * Certificate in Fullstack Software Engineering - Flatiron School in 2023
