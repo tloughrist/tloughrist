@@ -3,8 +3,8 @@
 **Full-Stack Software Engineer**  
 Ruby on Rails • React • TypeScript • JavaScript
 
-Resume: <link>
-LinkedIn: <www.linkedin.com/in/timloughrist>
+Resume: [link](https://github.com/tloughrist/tloughrist/blob/main/Current_Styled_Resume.pdf)
+LinkedIn: [link](www.linkedin.com/in/timloughrist)
 
 ---
 
