@@ -1,24 +1,65 @@
 # Tim Loughrist
-## Software Engineer | Ruby on Rails, React.js, HTML, CSS | [Resume](https://github.com/tloughrist/tloughrist/blob/main/Loughrist_Resume-1.pdf) ##
- 
-### About Me ###
-I spent the first two decades of my professional life as an analytic philosopher. After earning tenure, I grew restless and decided to branch out and explore new challenges.
 
-Because I’ve always had a love of formal logic, rules, and system building, my transition into software development was surprisingly smooth. I enjoy the work I do (with a special fondness for debugging) and look forward to it every morning.
+**Full-Stack Software Engineer**  
+Ruby on Rails • React • TypeScript • JavaScript
 
-Outside of coding and philosophy, I am an avid tabletop gamer, bicycle aficionado, and consumer of coffee.
+Resume: <link>
+LinkedIn: <www.linkedin.com/in/timloughrist>
 
-### Current Projects ###
-* Building: Braggart, an app for keeping track of your local board game group's stats.
- 
-### Experience ###
-* Software Developer - 2023 - Present
-  * Social Assurance
-* Philosophy Professor - 2016 to 2023
-  * University of North Alabama
+---
 
-### Education ###
-* Certificate in Fullstack Software Engineering - Flatiron School in 2023
-* Doctorate in Philosophy - University of Nebraska-Lincoln in 2015
-* Masters in Philosophy - University of Nebraska-Lincoln in 2010
-* Bachelors in Philosophy - SUNY Geneseo in 2004
+## About Me
+
+I'm a full-stack software engineer with a background in analytic philosophy. Before moving into software engineering, I spent nearly two decades in academia, earning tenure as a philosophy professor before making a career transition into software development.
+
+My academic background taught me to decompose complex problems, analyze systems rigorously, communicate technical ideas clearly, and reason carefully about edge cases—skills that translate naturally to software engineering.
+
+Professionally, I enjoy working across the full software development lifecycle, from designing new features to debugging production issues and improving application architecture. I'm particularly interested in backend development, platform engineering, application security, developer tooling, and AI-assisted software development.
+
+---
+
+## Current Project
+
+### Braggart
+
+A board-game companion app for tracking player statistics, achievements, rankings, and long-term campaign data.
+
+Current stack:
+- React Native
+- TypeScript
+- Expo
+- NestJS
+
+---
+
+## Technical Interests
+
+- Ruby on Rails
+- React & TypeScript
+- API design
+- Application architecture
+- Backend systems
+- Security engineering
+- AI-assisted software development
+- Developer productivity
+
+---
+
+## Experience
+
+**Full-Stack Software Engineer**  
+Social Assurance (2023–Present)
+
+Building and maintaining SaaS applications using Ruby on Rails, React, and TypeScript while contributing to application modernization, integrations, security initiatives, and full-stack feature development.
+
+**Professor of Philosophy**  
+University of North Alabama (2016–2023)
+
+---
+
+## Education
+
+- Flatiron School — Full Stack Software Engineering
+- Ph.D. Philosophy — University of Nebraska–Lincoln
+- M.A. Philosophy — University of Nebraska–Lincoln
+- B.A. Philosophy — SUNY Geneseo
