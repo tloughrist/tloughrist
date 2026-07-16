@@ -4,6 +4,7 @@
 Ruby on Rails • React • TypeScript • JavaScript
 
 Resume: [link](https://github.com/tloughrist/tloughrist/blob/main/Current_Styled_Resume.pdf)
+
 LinkedIn: [link](www.linkedin.com/in/timloughrist)
 
 ---
